@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Heather Inness</h1>
-<h3 align="center">A software engineer from Kansas City, MO.</h3>
+<h3 align="center">A software engineer from Kansas City, MO. I'm here better myself and the world.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
